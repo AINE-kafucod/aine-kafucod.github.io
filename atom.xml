@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aine-kafucod.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-16T02:33:02.543Z</updated>
+    <title>AINE</title>
+    <updated>2021-02-16T02:59:06.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aine-kafucod.github.io"/>
     <link rel="self" href="https://aine-kafucod.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://aine-kafucod.github.io/images/avatar.png</logo>
     <icon>https://aine-kafucod.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, AINE</rights>
 </feed>
