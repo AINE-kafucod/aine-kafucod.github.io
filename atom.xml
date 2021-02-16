@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aine-kafucod.github.io</id>
     <title>AINE</title>
-    <updated>2021-02-16T05:22:06.462Z</updated>
+    <updated>2021-02-16T05:37:35.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aine-kafucod.github.io"/>
     <link rel="self" href="https://aine-kafucod.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>人生如逆旅，我亦是行人</subtitle>
     <logo>https://aine-kafucod.github.io/images/avatar.png</logo>
     <icon>https://aine-kafucod.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, AINE</rights>
