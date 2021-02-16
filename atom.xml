@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aine-kafucod.github.io</id>
     <title>AINE</title>
-    <updated>2021-02-16T05:38:17.282Z</updated>
+    <updated>2021-02-16T05:55:59.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aine-kafucod.github.io"/>
     <link rel="self" href="https://aine-kafucod.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://aine-kafucod.github.io/images/avatar.png</logo>
     <icon>https://aine-kafucod.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, AINE</rights>
+    <entry>
+        <title type="html"><![CDATA[【AINE】鄙人的故事......]]></title>
+        <id>https://aine-kafucod.github.io/post/aine-bi-ren-de-gu-shi/</id>
+        <link href="https://aine-kafucod.github.io/post/aine-bi-ren-de-gu-shi/">
+        </link>
+        <updated>2021-02-16T05:39:16.000Z</updated>
+    </entry>
 </feed>
